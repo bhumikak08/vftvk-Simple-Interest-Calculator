@@ -1,6 +1,4 @@
-function validateform(){
-    
-}
+
 function compute()
 {    var principal = document.getElementById("principal").value;
 if(principal<0){
